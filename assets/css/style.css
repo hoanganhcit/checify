@@ -6284,8 +6284,8 @@ header .offcanvas-backdrop {
   line-height: 1.4;
 }
 .faq-section .accordion .accordion-item .accordion-button:after {
-  content: "\f1af";
-  font-family: remixicon !important;
+  content: "\f107";
+  font-family: "Font Awesome 5 Pro" !important;
   font-style: normal;
   background-image: none;
 }
@@ -6293,7 +6293,7 @@ header .offcanvas-backdrop {
   color: rgba(var(--white), 1);
 }
 .faq-section .accordion .accordion-item .accordion-button.collapsed:after {
-  content: "\ea13";
+  content: "\f107";
 }
 .faq-section .accordion .accordion-item:last-child {
   margin-bottom: 0;
